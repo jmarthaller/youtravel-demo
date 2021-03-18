@@ -15,14 +15,12 @@ YouTravel is a website that allows users to watch videos containing information,
 Users can login to access their YouTravel account or sign up to create a new account.<br />
 A user's login has validations. Upon a successful login attempt a user will be taken to their profile page, which contains videos that user has uploaded. 
 
-
 ![youtravel-login](gifs/yt-login.gif)
 
 <br/><br/>
 <br/><br/>
 
 A profile page also includes a hidden form to upload additional videos (which we will use later).
-
 
 ![video-upload-form](gifs/yt-upload-form.gif)
 
@@ -37,7 +35,6 @@ When a user clicks on the "Cities" tab, they will be brought to the main cities 
 
 <br/><br/>
 <br/><br/>
-
 
 ### City "Show" Page
 
