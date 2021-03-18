@@ -16,8 +16,11 @@ Users can login to access their YouTravel account or sign up to create a new acc
 A user's login has validations. Upon a successful login attempt a user will be taken to their profile page, which contains videos that user has uploaded. 
 
 
-![youtravel-login](gifs/yt-login.gif)<br />
+![youtravel-login](gifs/yt-login.gif)
 
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 A profile page also includes a hidden form to upload additional videos (which we will use later).
 
