@@ -12,8 +12,8 @@ YouTravel is a website that allows users to watch videos containing information,
 
 ### Login/User Profile
 
-Users can login to access their YouTravel account or sign up to create a new account.<br />
-A user's login has validations. Upon a successful login attempt a user will be taken to their profile page, which contains videos that user has uploaded. 
+Users can login to access their YouTravel account. A user's login has validations.<br />
+Upon a successful login attempt a user will be taken to their profile page, which contains videos that user has uploaded. 
 
 ![youtravel-login](gifs/yt-login.gif)
 
