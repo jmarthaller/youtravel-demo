@@ -4,7 +4,7 @@ This is a demo for **YouTravel**, a single-page application (SPA) video platform
 
 Requires [YouTravel frontend](https://github.com/jeffreyc86/phase3-travelproject-frontend) and [YouTravel backend](https://github.com/jeffreyc86/phase3-travelproject-backend).
 
-Created in partnership with Flatiron cohort-mate [Jeffrey Chiu](https://github.com/jeffreyc86). 
+Created in partnership with Flatiron School cohort-mate [Jeffrey Chiu](https://github.com/jeffreyc86). 
 
 ## Features
 
