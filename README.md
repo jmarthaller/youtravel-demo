@@ -2,7 +2,7 @@
 
 This is a demo for **YouTravel**, a single-page application (SPA) video platform for travelers. The frontend was built with vanilla Javascript and the backend was built using a Ruby on Rails API.
 
-Requires [YouTravel](https://github.com/jeffreyc86/phase3-travelproject-frontend) frontend and [YouTravel](https://github.com/jeffreyc86/phase3-travelproject-backend) backend.
+Requires [YouTravel frontend](https://github.com/jeffreyc86/phase3-travelproject-frontend) and [YouTravel backend](https://github.com/jeffreyc86/phase3-travelproject-backend).
 
 Created in partnership with Flatiron cohort-mate [Jeffrey Chiu](https://github.com/jeffreyc86). 
 
