@@ -1,6 +1,6 @@
 ![a logo](https://upload.wikimedia.org/wikipedia/commons/5/57/Youtravel-logo.png)
 
-This is a demo for **YouTravel**, a single-page application (SPA) video platform for travelers. The frontend was built with vanilla Javascript and the backend was built using a Ruby on Rails API.
+This is a demo for [YouTravel](https://youtravel.netlify.app/), a single-page application (SPA) video platform for travelers. The frontend was built with vanilla Javascript and the backend was built using a Ruby on Rails API.
 
 Requires [YouTravel frontend](https://github.com/jeffreyc86/phase3-travelproject-frontend) and [YouTravel backend](https://github.com/jeffreyc86/phase3-travelproject-backend).
 
